@@ -2,7 +2,7 @@ class Whichtech < Formula
   desc "A CLI tool to detect the technology used in a project"
   homepage "https://github.com/darks-society/whichtech"
   url "https://github.com/darks-society/whichtech/archive/v1.0.0.tar.gz"
-  sha256 "03ab5ceef92d8228df1215741bdd7dd50eb7f9213cade436e644276c4770e2d1"
+  sha256 "86fd96d660d8f32b6f4d460ceb36da5f5161d974a6d24f66985ccb4be769d15e"
   version "1.0.0"
 
   def install
