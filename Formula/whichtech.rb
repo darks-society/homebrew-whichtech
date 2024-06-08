@@ -6,7 +6,7 @@ class Whichtech < Formula
   version "1.0.0"
 
   def install
-    bin.install "whichtech"
+    bin.install "whichtech.sh" => "whichtech"
   end
 
   test do
